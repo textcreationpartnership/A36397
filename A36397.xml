@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bill of excommunication for abolishing henceforth the Sabbath called Sunday or first day / by the Lady Eleanor.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36397</idno>
+            <idno type="STC">Wing D1979</idno>
+            <idno type="STC">ESTC R37758</idno>
+            <idno type="EEBO-CITATION">17010073</idno>
+            <idno type="OCLC">ocm 17010073</idno>
+            <idno type="VID">105775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1614:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bill of excommunication for abolishing henceforth the Sabbath called Sunday or first day / by the Lady Eleanor.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"British Museum Catalogue gives [London] as place of publication"--NUC pre-1956 imprints.</note>
+                  <note>Imperfect: lacks all after p. 8; best copy available for photographing. Bound and filmed with D2000 (Of times and seasons, mystery), with D2004 (A prophesie of the last day) following.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>With: Of times and seasons, their mystery / the Lady Eleanor. [London? : s.n], 1651 -- A prophesie of the last day / the Lady Eleanor. London printed : [s.n.], 1645.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apocalyptic literature.</term>
+               <term>Sabbath.</term>
+               <term>Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105775:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>The Bill of Excommunication, For aboliſhing henceforth the SABBATH Called <hi>Sunday</hi> or <hi>Firſt day.</hi> By the Lady <hi>ELEANOR.</hi>
+            </p>
+            <q>
+               <bibl>Apocalips, cap. 1.</bibl>
+            </q>
+            <p>Printed in the Year, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105775:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb n="3" facs="tcp:105775:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>The Bill of EXCOMMVNICATION For aboliſhing henceforth, The Sabbath called Sunday or Firſt day, from the Lady <hi>Eleanor,</hi> (<hi>Apoc. cap.</hi> 1.)</head>
+            <p>AS ſhewed by whom (when paſſed by) in his admonition: <hi>Whom ye ignorantly worſhip, him ſhew I unto you, (Acts)</hi> ſo un<g ref="char:EOLhyphen"/>derſtood of you even alike Prophe<g ref="char:EOLhyphen"/>ſies Miſtery, eſpecially this Book of <hi>Apocalips: The laſt, &amp;c.</hi> times and ſeaſons preordained bounds, where<g ref="char:EOLhyphen"/>of the ſum, in ſeaſon now; of which obtruſe Oracle by Her as enſues; a bleſsing far from every one of you neither; the moſt Supreme and re<g ref="char:EOLhyphen"/>ſerved.</p>
+            <p>Containing three Articles or Arguments firſt Propheſie, like
+<pb n="4" facs="tcp:105775:3"/>
+               <!-- PDF PAGE 99 -->the <hi>Eagle</hi> renewing its ſtrength. Se<g ref="char:EOLhyphen"/>condly, of a new Sabbath inſtitu<g ref="char:EOLhyphen"/>ted, namely Moonday, <hi>One for Thee,</hi> as it were, <hi>one for Moſes, and one for Elias.</hi> Laſtly, <hi>Of the Lords ſecond coming in the laſt days,</hi> revealed to be, alſo of time, perſons and place, no unneceſſary circumſtances.</p>
+            <p>The Book ſuperſcribed thus, <hi>Reader and Hearer, both with a bleſ<g ref="char:EOLhyphen"/>ſing crownd, keep the words hereof, for the time is at hand.</hi> ver. a ſufficient Motive.</p>
+            <p>VVhich paſſages profound till come of full Age, under cuſtody of Metaphors and Figures, by him Se<g ref="char:EOLhyphen"/>cretary to the Holy Ghoſt, on this wiſe, under his Hand <hi>Joann.</hi> The grace of God ſignifying, <hi>Anno Dom.</hi> Theſe Viſions vvhen awakened,
+<pb n="5" facs="tcp:105775:3"/>
+               <!-- PDF PAGE 99 -->that alone Peace-maker.</p>
+            <p>Ver. <hi>Iohn to the ſeven Churches, grace and peace from him which was, and which is, and which is to come, and from the ſeven Spirits in preſence of his Throne:</hi> Times voices paſt, preſent and future, bids farewel him, a Fa<g ref="char:EOLhyphen"/>ther become of many Generations, bearing date the laſt ſeven hundred years, thoſe in the rear next to eterni<g ref="char:EOLhyphen"/>ty: <hi>That ſits not on Thrones by hands erected.</hi>
+            </p>
+            <p>As in the next place <hi>Eaſters</hi> An<g ref="char:EOLhyphen"/>niverſary day, the Reſurrections comemoration <hi>(ver.) And from Ieſus Chriſt and firſt begotten of the dead, that waſhed us in his Blood, &amp;c.</hi> implying (Ieſus CHR:) even Lord of Sab<g ref="char:EOLhyphen"/>baths three, from his reſt; a greater then <hi>Caeſar</hi> ſlain then, or CH: R: ei<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:105775:4"/>
+               <!-- PDF PAGE 100 -->of <hi>Britains</hi> three Iſles, ſtiled De<g ref="char:EOLhyphen"/>fenders or Saviours, &amp;c. whoſe Co<g ref="char:EOLhyphen"/>ronations father and ſon both about <hi>Eaſter, J.</hi> and <hi>C.</hi> thoſe firſt and laſt.</p>
+            <p>And AS he cometh he cometh, <hi>(Pſal.) Let the great Iſles be glad thereof, To him be glory and dominion for ages of ages, even ſo Amen.</hi> (ver.) <hi>A.</hi> and <hi>O.</hi> All and Some, be<g ref="char:EOLhyphen"/>ginning and ending of the <hi>Roman</hi> and <hi>Norman</hi> Tiranny both, alſo pointing to the Hebrew Language and Greek, Old and New Teſta<g ref="char:EOLhyphen"/>ment, where the one begins, the o<g ref="char:EOLhyphen"/>ther <hi>Finis</hi> ſubſcribes.</p>
+            <p>And ſo a brief Remonſtrance of whoſe Sabbath or Firſt day, not only how of late prophaned, but accom<g ref="char:EOLhyphen"/>panied with a maſs of abomination
+<pb n="7" facs="tcp:105775:4"/>
+               <!-- PDF PAGE 100 -->as far as theſe narrow limits permit.</p>
+            <p>To ſteal the hearts of the people, <hi>Abſoloms</hi> policy like, conſecrated to Maygames and VVakes, when crowding and piping to fall to their Heathen exerciſes, needs not be a<g ref="char:EOLhyphen"/>wakened, to give ear to theſe leſſons, like him that made <hi>Iſrael</hi> to ſin; ſuch a care had of the people, leaſt weary themſelves that way, anſwerable to thoſe preſumptious prefaces annext to Bibles, leſt it troubleſome either, that except the Revelations Book, and other like leaſt edifying, and ſuch as may be beſt ſpared, allowing the reſt once a VVeek to be read; Doubtleſs in proceſs of time, not without an intent to poyſon the reſt likewiſe of thoſe living Fountains, by like aſperſions.</p>
+            <p>
+               <pb n="8" facs="tcp:105775:5"/>
+               <!-- PDF PAGE 101 -->
+Pretending it only concerns <hi>Rome,</hi> as by their Marginals all upon that Dragon laid and his Red Livery. And thus proceeding with that Ivo<g ref="char:EOLhyphen"/>ry Box, diſſolv'd thoſe Spirits oderi<g ref="char:EOLhyphen"/>ſerous Oyntment alike acceptable, to the world as when ſhe of everlaſt<g ref="char:EOLhyphen"/>ing memory, afore his Burial then brake the other, no leſs then before times departure prefiguring the Spi<g ref="char:EOLhyphen"/>rit of Propheſie diſtilling that dew on <hi>Mount Sion,</hi> &amp;c. a threefold teſta<g ref="char:EOLhyphen"/>ment importing.</p>
+            <p>But leaving that, <hi>like to the three meaſures of meal taken by her, where<g ref="char:EOLhyphen"/>in hidden, &amp;c. till the whole leaven'd again return</hi> where left him; after had his ample Salutations ſignified; Relates by vvhat Authority ſets out the inſuing. Proclamation or <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:105775:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 101 -->
+            <pb facs="tcp:105775:6"/>
+            <!-- PDF PAGE 102 -->
+            <pb facs="tcp:105775:6"/>
+            <!-- PDF PAGE 102 -->
+         </div>
+      </body>
+   </text>
+</TEI>
